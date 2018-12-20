@@ -10,7 +10,7 @@
     <ImageView
         android:src="@mipmap/ic_launcher"
         android:id="@+id/profile_image"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="150dp"
         android:layout_marginTop="16dp"
         app:layout_constraintTop_toTopOf="parent"
